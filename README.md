@@ -1,5 +1,7 @@
 # CentOs 6.x - 7 Node.js install & Setup
 
+<img src="https://github.com/falconsw/centos-nodejs-install/blob/master/nodejsinstagram.jpg"/>
+
 ## Provide ssh access and reach the main directory
 ```
 cd ~
