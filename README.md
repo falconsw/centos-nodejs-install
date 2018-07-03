@@ -1,4 +1,4 @@
-## CentOs 6.x - 7 Node.js install & Setup
+# CentOs 6.x - 7 Node.js install & Setup
 
 ## Provide ssh access and reach the main directory
 ```
